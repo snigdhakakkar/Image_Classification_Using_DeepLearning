@@ -14,3 +14,5 @@ Image classification Model Using Vgg19 (Transfer Learning) and implementing it o
  5. HTML
  6. CSS
  7. Javascript
+
+**A short video of the final result:**
